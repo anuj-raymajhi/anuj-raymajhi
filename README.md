@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning web development<br>
+I'm currently learning about LLMs<br>
 
 
 # 💻 Tech Stack:
