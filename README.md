@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on LLM deployment<br>🌱 I'm currently learning Backend
+🔭 I'm currently working on LLM deployment<br>🌱 I'm currently learning Backend, SyncFusion UI in React 
 
 
 ## 🌐 Socials:
